@@ -1,0 +1,3 @@
+Authored a Product Requirements Document (PRD) for a new tipping feature in a delivery app, detailing functional specifications and user stories to guide development. Collaborated with cross-functional teams
+including design, engineering, and marketing to ensure alignment on feature goals and implementation.
+Successfully launched the feature, resulting in increased user satisfaction and driver tips.
